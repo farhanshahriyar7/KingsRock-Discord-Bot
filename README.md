@@ -1,4 +1,4 @@
-# 🎵 KingsRock Discord Bot
+# KingsRock Discord Bot
 
 An **AI-ready, full-featured bot** built with **Python**, **Lavalink**, and **Supabase** — designed for currently powerful music playback, user playlists, and real-time server logging.  
 Built by **KingsRock Management** ❤️‍🔥
