@@ -1,5 +1,3 @@
-
-```markdown
 # 🎵 KingsRock Discord Bot
 
 An **AI-ready, full-featured bot** built with **Python**, **Lavalink**, and **Supabase** — designed for currently powerful music playback, user playlists, and real-time server logging.  
@@ -44,7 +42,6 @@ KingsRock Discord Bot is a next-gen bot that currently delivers **premium music 
 ## 🧱 Project Structure
 
 ```
-
 discord-advanced-music-bot/
 ├── bot.py                # Entry point
 ├── cogs/
@@ -64,7 +61,6 @@ discord-advanced-music-bot/
 ├── requirements.txt
 ├── README.md
 └── .env.example
-
 ````
 
 ---
@@ -231,7 +227,6 @@ Feel free to fork, extend, or remix — just give credit 🎶
 Need help?
 Join our Discord or open an issue on GitHub!
 
-```
 
 
 
